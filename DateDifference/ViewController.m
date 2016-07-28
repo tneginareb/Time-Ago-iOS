@@ -21,7 +21,7 @@
     //Input in Miliseconds or Seconds
     long createdDateMiliseconds = 1453503600000;
     DateModel*dateModel = [[DateModel alloc] initWithMiliseconds:createdDateMiliseconds];
-    NSLog(@"\n1) Input in Milisecondsn\nThis event created %@ ",[dateModel getDifferenceFromCurrentTime]);
+    NSLog(@"\n1) Input in Miliseconds or Seconds \nThis event created %@ ",[dateModel getDifferenceFromCurrentTime]);
     
     
     //Input in Date Format

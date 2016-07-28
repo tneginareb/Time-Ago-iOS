@@ -8,4 +8,4 @@ You can use as input Unix Timestamp Format & Usual Date Format.
 
 Example:
 
-![alt tag](https://s32.postimg.org/nsn5h04ol/example.png)
+![alt tag](https://s32.postimg.org/c589e3ob9/example.png)
